@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "383976782274",
+    "project_id": "rutasunc",
+    "storage_bucket": "rutasunc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383976782274:android:07781ca3f28cff61a07e5b",
+        "android_client_info": {
+          "package_name": "com.unc.rutasunc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383976782274-8acnbhop9lnt2j9m2ilnbiehg48dfgl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unc.rutasunc",
+            "certificate_hash": "29e57fce33492748fcc45c836ba9dacdab962211"
+          }
+        },
+        {
+          "client_id": "383976782274-qgfrl1vmom41j8lf77gcsr2j1d46ijna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfjBs5j3SbPRvJ-1wWpwCe-vjazuzFAIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383976782274-qgfrl1vmom41j8lf77gcsr2j1d46ijna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383976782274-ovf1t6q2dj4k9np6pfen3eakg7p6acfs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unc.rutasunc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
